@@ -1,1 +1,1 @@
-# QLearningReinforcement
+Tugas Kecerdasan buatan mengenai reinforcement learning untuk finite state machine (FSM) unity engine, memungkinkan agent (navmesh agent) belajar melalui interaksi lingkungan menggunakan sistem reward dan punishment.
